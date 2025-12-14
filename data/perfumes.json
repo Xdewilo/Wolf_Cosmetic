@@ -1,0 +1,222 @@
+{
+  "categoria": "Perfumes Exclusivos",
+  "presentacion": "Colección Completa",
+  "productos": [
+    {
+      "marca": "Benetton",
+      "nombre": "Benetton Cold",
+      "genero": "Hombre",
+      "imagen": "https://noirperfumeria.co/cdn/shop/files/imagen_2023-05-06_150516003.png?v=1683403518&width=713"
+    },
+    {
+      "marca": "Gilles Cantuel",
+      "nombre": "Arsenal",
+      "genero": "Hombre",
+      "imagen": "https://cdn.valmara.co/58466-large_default/perfume-para-hombre-arsenal-by-gilles-cantuel-100ml.webp"
+    },
+    {
+      "marca": "Gilles Cantuel",
+      "nombre": "Arsenal Black",
+      "genero": "Hombre",
+      "imagen": "https://cdn.valmara.co/52376-large_default/perfume-para-hombre-arsenal-black-de-gilles-cantuel-00-ml.webp"
+    },
+    {
+      "marca": "Bvlgari",
+      "nombre": "Bvlgari Man in Black",
+      "genero": "Hombre",
+      "imagen": "https://cdnx.jumpseller.com/matis1/image/66884490/resize/1000/1000?1756084894"
+    },
+    {
+      "marca": "Mercedes-Benz",
+      "nombre": "Mercedes Benz Man",
+      "genero": "Hombre",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_855605-MLU72700373830_112023-O.webp"
+    },
+    {
+      "marca": "Paris Hilton",
+      "nombre": "Paris Hilton for Men",
+      "genero": "Hombre",
+      "imagen": "https://cdn.valmara.co/46622-large_default/perfume-para-hombre-paris-hilton-men-de-paris-hilton-100-ml.webp"
+    },
+    {
+      "marca": "Loewe",
+      "nombre": "Solo Loewe",
+      "genero": "Hombre",
+      "imagen": "https://disfragancias.com/cdn/shop/files/sololoewe200ml.jpg?v=1705248964"
+    },
+    {
+      "marca": "Ferrari",
+      "nombre": "Ferrari Black",
+      "genero": "Hombre",
+      "imagen": "https://attoperfumes.com.co/cdn/shop/products/FerrariBlack.jpg?v=1649536248"
+    },
+    {
+      "marca": "Viktor & Rolf",
+      "nombre": "Spicebomb",
+      "genero": "Hombre",
+      "imagen": "https://cdn.valmara.co/51574-large_default/perfume-para-hombre-spicebomb-viktor-rolf-90-ml-edt.webp"
+    },
+    {
+      "marca": "Viktor & Rolf",
+      "nombre": "Spicebomb Extreme",
+      "genero": "Hombre",
+      "imagen": "https://mwhite.com.co/cdn/shop/files/spicebomb-extreme-viktor-rolf-perfumes-205.webp?v=1713417740"
+    },
+    {
+      "marca": "Givenchy",
+      "nombre": "Givenchy Pour Homme",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Givenchy",
+      "nombre": "Givenchy Pour Homme Blue Label",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Dior",
+      "nombre": "Fahrenheit",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Bvlgari",
+      "nombre": "Aqva Pour Homme",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Bvlgari",
+      "nombre": "Aqva Pour Homme Marine",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Nautica",
+      "nombre": "Nautica Voyage",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Giorgio Armani",
+      "nombre": "Armani Code",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Hugo Boss",
+      "nombre": "Boss Bottled",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Hugo Boss",
+      "nombre": "Boss Bottled Night",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Hugo Boss",
+      "nombre": "Boss Bottled Sport",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Hugo Boss",
+      "nombre": "Boss Bottled Unlimited",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Hugo Boss",
+      "nombre": "Boss Bottled Tonic",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Hugo Boss",
+      "nombre": "Boss Bottled Oud Aromatic",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Hugo Boss",
+      "nombre": "Boss The Scent Intense",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Árabe",
+      "nombre": "Oud Al Mashaer",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Le Labo",
+      "nombre": "Santal 33",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Montblanc",
+      "nombre": "Legend Red",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Cartier",
+      "nombre": "Eau de Cartier",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Tommy Hilfiger",
+      "nombre": "Tommy Girl Now",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Rabanne",
+      "nombre": "1 Million",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Rabanne",
+      "nombre": "1 Million Lucky",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Rabanne",
+      "nombre": "1 Million Royal",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Rabanne",
+      "nombre": "1 Million Elixir",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Rabanne",
+      "nombre": "1 Million Parfum",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Rabanne",
+      "nombre": "1 Million Privé",
+      "genero": "Hombre",
+      "imagen": ""
+    },
+    {
+      "marca": "Rabanne",
+      "nombre": "1 Million Gold",
+      "genero": "Hombre",
+      "imagen": ""
+    }
+  ]
+}
